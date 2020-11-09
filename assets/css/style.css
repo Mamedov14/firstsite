@@ -391,6 +391,17 @@ td img {
 	font-size: 0.8em;	
 }
 
+
+/* 8Mile*/
+	.var {
+		margin-top: 4%;
+	}
+
+	.gav {
+		margin-bottom: 4%;
+	}
+
+
 .button a {
 	color: white;
 }
@@ -408,6 +419,11 @@ td img {
 .footer p {
 	padding: 0 0 10px 0;
 }
+
+
+
+
+
 
 /* СSS Mobile  */
 @media only screen 
